@@ -16,6 +16,8 @@ pids
 *.seed
 *.pid.lock
 
+bump
+
 # OpenAPI Generator
 .openapi-generator/VERSION
 .openapi-generator/FILES

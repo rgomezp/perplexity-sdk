@@ -25,7 +25,8 @@
   "typings": "./dist/index.d.ts",
   "scripts": {
     "build": "tsc",
-    "prepare": "npm run build"
+    "prepare": "npm run build",
+    "prepublishOnly": "npm run build && ./bump"
   },
   "dependencies": {
     "@types/node": "^20.11.16",
