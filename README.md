@@ -17,7 +17,7 @@
 * 🖤 [npm](https://www.npmjs.com/package/perplexity-sdk)
 
 ## Overview
-This SDK is designed to provide developers with easy access to Perplexity's powerful AI models. It simplifies the process of sending requests and handling responses from various models including pplx-7b-chat, pplx-70b-chat, pplx-7b-online, pplx-70b-online, and others. The SDK is highly versatile, catering to a wide range of AI-driven applications.
+This Unofficial SDK is designed to provide developers with easy access to Perplexity's powerful AI models. It simplifies the process of sending requests and handling responses from various models including pplx-7b-chat, pplx-70b-chat, pplx-7b-online, pplx-70b-online, and others. The SDK is highly versatile, catering to a wide range of AI-driven applications.
 
 Typescript supported.
 
